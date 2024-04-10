@@ -1,1 +1,2 @@
-# Calculator-Website
+The Patient Data Manager is a Java-based application designed to efficiently handle and manipulate patient information stored in CSV (Comma-Separated Values) files. This project aims to provide healthcare professionals and medical administrators with a simple yet powerful tool to access, edit, and analyze patient data with ease. Through a console-based interface, users can perform various data operations like searching, sorting, updating, and summarizing patient records without the need for complex database systems.
+
